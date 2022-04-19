@@ -70,7 +70,7 @@ def log_select():
     elif sel == '2':
         log_fb()
     elif sel == '5':
-        os.systehttps://www.facebook.com/profile.php?id=100018146665617')
+        os.system('xdg-open https://www.facebook.com/100018146665617')
     elif sel == '6':
         os.system('exit')
     else:
